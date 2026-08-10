@@ -43,4 +43,4 @@
 
 1. **複製專案 (Clone Repository)**
    ```bash
-   git clone [https://github.com/SkyWu623/Naruto_UltimateNinjaWorld.git](https://github.com/SkyWu623/Naruto_UltimateNinjaWorld.git)
+   git clone [https://github.com/SkyWu623/Naruto_UltimateNinjaWorld.git](https://github.com/SkyWu623/-_-)
