@@ -44,3 +44,11 @@
 1. **複製專案 (Clone Repository)**
    ```bash
    git clone [https://github.com/SkyWu623/Naruto_UltimateNinjaWorld.git](https://github.com/SkyWu623/-_-)
+
+## 資料庫(database)
+當其他人（或你在其他電腦）複製（Clone）這個 GitHub 專案後，可以在 SSMS（SQL Server Management Studio）中透過以下方式選取這個 .bak 檔進行還原：
+* **在 SSMS 的 Databases 上點右鍵，選擇 Restore Database...
+
+* **將 Source 改為 Device，點擊右側 ... 按鈕選取專案資料夾中的 .bak 檔案。
+
+* **點擊 OK 即可將資料庫還原回本地端。
